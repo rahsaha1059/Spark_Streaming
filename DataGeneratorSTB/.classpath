@@ -1,0 +1,16 @@
+<classpath>
+  <classpathentry kind="src" path="src\main\scala"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"></classpathentry>
+  <classpathentry sourcepath="C:\Users\rahuls642\.ivy2\cache\log4j\log4j\srcs\log4j-1.2.17-sources.jar" kind="lib" path="C:\Users\rahuls642\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\rahuls642\.ivy2\cache\log4j\log4j\docs\log4j-1.2.17-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rahuls642\.ivy2\cache\log4j\apache-log4j-extras\bundles\apache-log4j-extras-1.2.17.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\rahuls642\.ivy2\cache\log4j\apache-log4j-extras\docs\apache-log4j-extras-1.2.17-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
