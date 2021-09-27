@@ -8,6 +8,7 @@ import java.sql.Timestamp
 import java.text.SimpleDateFormat
 import java.sql.Date
 
+//Adding new comment
 case class SetTopBox(stbid:String,custid:String,siteid:String) extends Thread{
   
   val logger:Logger = Logger.getLogger(this.getClass().getName())
